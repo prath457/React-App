@@ -48,7 +48,7 @@ Make sure you have installed:
 
 ### Installation & Run
 1. Clone the repository
-```bash
+
 git clone https://github.com/your-username/counter-app.git
 Navigate to project directory
 
@@ -67,6 +67,7 @@ Copy code
 npm start
 The app will run at:
 http://localhost:3000
+
 📚 Learning Outcomes
 
 Understanding React project structure
@@ -91,6 +92,7 @@ Deploy app using GitHub Pages or Netlify
 
 Prathmesh Nikam
 Aspiring Software Engineer | React Developer
+
 
 
 
